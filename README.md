@@ -13,7 +13,7 @@ Features of Staggered Grid View Widget
 5. Staggered and Spannable grid layouts.
 
 [flutter_svg](https://pub.dev/packages/flutter_svg)
-Feature of flutter_svg- It is used to render flutter logo as a widget.
+- It is used to render flutter logo as a widget.
 
 **Fonts**
 Nunito - [link](https://fonts.google.com/specimen/Nunito?query=nunit)
